@@ -1,2 +1,2 @@
 # Luke-AI
-Small homemade alexa-like AI poc
+Small chatbot poc, powered by ai models running locally via ollama.
